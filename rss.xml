@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>YP&#39;s site</title>
+        <link>https://yeahpeace.com/</link>
+        <description>A personal blog.</description>
+        <generator>Hugo 0.80.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>me@yeahpeace.com (yp)</managingEditor>
+        
+        
+            <webMaster>me@yeahpeace.com (yp)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Sat, 06 Mar 2021 16:21:23 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://yeahpeace.com/rss.xml" />
+        
+        
+            <item>
+                <title>从 Wordpress 迁移到 Hugo</title>
+                <link>https://yeahpeace.com/from-wordpress-to-hugo/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/from-wordpress-to-hugo/</guid>
+                <pubDate>Sat, 06 Mar 2021 12:20:03 &#43;0800</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>&lt;p&gt;经过几天的折腾, 本站已经从 WordPress 迁移到 Hugo, 并托管在 Github Pages 上.&lt;/p&gt;…</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/other/">other</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/hugo/">hugo</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/wordpress/">wordpress</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Use VLESS Instead of VMess</title>
+                <link>https://yeahpeace.com/use-vless-instead-of-vmess/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/use-vless-instead-of-vmess/</guid>
+                <pubDate>Thu, 04 Mar 2021 05:08:45 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Show how to use VLESS to replace VMess.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/application-usage/">application usage</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/vless/">vless</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/xray/">xray</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Chattr and Lsattr Usage</title>
+                <link>https://yeahpeace.com/chattr-and-lsattr-usage/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/chattr-and-lsattr-usage/</guid>
+                <pubDate>Mon, 01 Mar 2021 14:42:29 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Show the basic usage of chattr and lsattr.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/application-usage/">application usage</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/chattr/">chattr</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/lsattr/">lsattr</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Firedog</title>
+                <link>https://yeahpeace.com/firedog/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/firedog/</guid>
+                <pubDate>Sat, 27 Feb 2021 15:46:05 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Show the new Firefox logo, which is Firedog.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/personal-thoughts/">personal thoughts</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/firefox/">firefox</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/mozilla/">mozilla</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Categories vs. Tags</title>
+                <link>https://yeahpeace.com/categories-vs-tags/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/categories-vs-tags/</guid>
+                <pubDate>Fri, 26 Feb 2021 06:36:16 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Introduce the difference between categories and tags.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/personal-thoughts/">personal thoughts</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/category/">category</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/tag/">tag</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>To Be Great</title>
+                <link>https://yeahpeace.com/to-be-great/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/to-be-great/</guid>
+                <pubDate>Thu, 25 Feb 2021 09:11:52 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>The only thing is to be great, not to appear so.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/personal-thoughts/">personal thoughts</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Generate UUID in Linux</title>
+                <link>https://yeahpeace.com/generate-uuid-in-linux/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/generate-uuid-in-linux/</guid>
+                <pubDate>Sun, 21 Feb 2021 09:55:38 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Show how to generate UUID on Linux.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/application-usage/">application usage</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/uuid/">uuid</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>为什么外国人可以使用中国的社交媒体平台, 而中国人就不可以使用推特和脸书呢?</title>
+                <link>https://yeahpeace.com/why-chinese-cannot-use-twitter-and-facebook/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/why-chinese-cannot-use-twitter-and-facebook/</guid>
+                <pubDate>Sun, 21 Feb 2021 07:49:57 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>转载 2 月 18 日中国外交部例行记者会上香港中评社记者所提问题及华春莹的回答.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/politics/">politics</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/china/">china</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Rar Usage</title>
+                <link>https://yeahpeace.com/rar-usage/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/rar-usage/</guid>
+                <pubDate>Sun, 21 Feb 2021 04:52:41 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>List some common usage of rar.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/application-usage/">application usage</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/rar/">rar</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Deploy V2Ray on an Existing Server</title>
+                <link>https://yeahpeace.com/deploy-v2ray-on-an-existing-server/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/deploy-v2ray-on-an-existing-server/</guid>
+                <pubDate>Sat, 20 Feb 2021 03:55:32 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Show how to deploy V2Ray on an existing web server.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/web-development/">web development</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/apache/">apache</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/v2ray/">v2ray</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Proper HTTP Request Headers</title>
+                <link>https://yeahpeace.com/proper-http-request-headers/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/proper-http-request-headers/</guid>
+                <pubDate>Fri, 19 Feb 2021 10:47:46 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>List some proper HTTP request headers.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/web-development/">web development</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/http-header/">http header</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Secure Sites with Cloudflare</title>
+                <link>https://yeahpeace.com/secure-sites-with-cloudflare/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/secure-sites-with-cloudflare/</guid>
+                <pubDate>Thu, 18 Feb 2021 06:04:38 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Show how to secure your websites by using Cloudflare.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/web-development/">web development</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/cloudflare/">cloudflare</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/tls/">tls</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Hide Trackers</title>
+                <link>https://yeahpeace.com/hide-trackers/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/hide-trackers/</guid>
+                <pubDate>Wed, 17 Feb 2021 10:39:08 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Show how to hide trackers so that they are not blocked.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/web-development/">web development</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/tracker/">tracker</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Use Cloudflare to Secure V2Ray</title>
+                <link>https://yeahpeace.com/use-cloudflare-to-secure-v2ray/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/use-cloudflare-to-secure-v2ray/</guid>
+                <pubDate>Tue, 16 Feb 2021 05:22:50 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Show how to secure V2Ray with Cloudflare.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/web-development/">web development</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/cloudflare/">cloudflare</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/v2ray/">v2ray</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Configuration After Installing WordPress</title>
+                <link>https://yeahpeace.com/configuration-after-installing-wordpress/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/configuration-after-installing-wordpress/</guid>
+                <pubDate>Mon, 15 Feb 2021 07:09:10 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Show some configuration after installing WordPress.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/web-development/">web development</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/wordpress/">wordpress</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Tweaks for Linux</title>
+                <link>https://yeahpeace.com/tweaks-for-linux/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/tweaks-for-linux/</guid>
+                <pubDate>Sun, 14 Feb 2021 08:09:55 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Introduce some tweaks for Linux.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/system-management/">system management</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>互联网时代的自我</title>
+                <link>https://yeahpeace.com/self-in-the-internet-age/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/self-in-the-internet-age/</guid>
+                <pubDate>Sat, 13 Feb 2021 12:33:31 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>转载梁文道在 2013 年作的一篇关于社交媒体的演讲。</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/sociology/">sociology</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/speech/">speech</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>SSH Login Without Password</title>
+                <link>https://yeahpeace.com/ssh-login-without-password/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/ssh-login-without-password/</guid>
+                <pubDate>Sat, 13 Feb 2021 05:08:04 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Show how to login via SSH without password.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/application-usage/">application usage</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/ssh/">ssh</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>PGP Key Generate</title>
+                <link>https://yeahpeace.com/pgp-key-generate/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/pgp-key-generate/</guid>
+                <pubDate>Sat, 13 Feb 2021 04:25:36 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Notify that I generated my PGP key and show how to send me encrypted files.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/application-usage/">application usage</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/gpg/">gpg</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/pgp/">pgp</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>SHA-256 Implementation</title>
+                <link>https://yeahpeace.com/sha-256-implementation/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/sha-256-implementation/</guid>
+                <pubDate>Fri, 12 Feb 2021 12:45:59 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Show the SHA-256 inplementation in C++.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/programming/">programming</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/sha256/">sha256</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>新年快乐!</title>
+                <link>https://yeahpeace.com/happy-new-year/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/happy-new-year/</guid>
+                <pubDate>Thu, 11 Feb 2021 16:00:32 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>新年快乐!</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/other/">other</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Deploy a V2Ray Server</title>
+                <link>https://yeahpeace.com/deploy-a-v2ray-server/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/deploy-a-v2ray-server/</guid>
+                <pubDate>Wed, 10 Feb 2021 08:26:23 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Use V2Ray to bypass censorship.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/application-usage/">application usage</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/nginx/">nginx</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/v2ray/">v2ray</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/vmess/">vmess</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>About Signal’s TLS Proxy</title>
+                <link>https://yeahpeace.com/about-signal-tls-proxy/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/about-signal-tls-proxy/</guid>
+                <pubDate>Tue, 09 Feb 2021 11:53:47 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>An archive about Signal&amp;rsquo;s TLS proxy.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/web-development/">web development</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/signal/">signal</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/tls/">tls</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Deploy a Shadowsocks Server</title>
+                <link>https://yeahpeace.com/deploy-a-shadowsocks-server/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/deploy-a-shadowsocks-server/</guid>
+                <pubDate>Mon, 08 Feb 2021 12:49:15 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Use Shadowsocks-libev to bypass censorship.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/application-usage/">application usage</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/shadowsocks/">shadowsocks</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>妙探寻凶 (Clue)</title>
+                <link>https://yeahpeace.com/clue/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/clue/</guid>
+                <pubDate>Sun, 07 Feb 2021 01:21:33 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>介绍 &amp;ldquo;妙探寻凶&amp;rdquo; 桌游的玩法.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/other/">other</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/game/">game</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Recommended WordPress Plugins</title>
+                <link>https://yeahpeace.com/recommended-wordpress-plugins/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/recommended-wordpress-plugins/</guid>
+                <pubDate>Fri, 05 Feb 2021 21:57:54 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>List some recommended WordPress plugins that make sites more powerful.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/application-usage/">application usage</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/wordpress/">wordpress</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Linux 控制终端</title>
+                <link>https://yeahpeace.com/control-terminal-on-linux/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/control-terminal-on-linux/</guid>
+                <pubDate>Thu, 04 Feb 2021 15:10:46 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>整理 Linux 控制终端的 C++ 代码.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/programming/">programming</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/cpp/">cpp</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/terminal/">terminal</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>The Longer Telegram: Toward a new American China strategy</title>
+                <link>https://yeahpeace.com/the-longer-telegram-toward-a-new-american-china-strategy/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/the-longer-telegram-toward-a-new-american-china-strategy/</guid>
+                <pubDate>Wed, 03 Feb 2021 18:20:47 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>A great article about American China strategy.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/politics/">politics</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/america/">america</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/china/">china</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>You-Get 修改文件名最大长度</title>
+                <link>https://yeahpeace.com/you-get-modify-filename-max-length-limit/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/you-get-modify-filename-max-length-limit/</guid>
+                <pubDate>Wed, 03 Feb 2021 14:55:05 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>记录 You-Get 文件名最大长度的修改原因及方法.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/application-usage/">application usage</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/you-get/">you-get</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>蛤?</title>
+                <link>https://yeahpeace.com/that-man/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/that-man/</guid>
+                <pubDate>Wed, 03 Feb 2021 02:56:30 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>搬运 3 个视频.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/politics/">politics</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/china/">china</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>不要启用 HSTS!</title>
+                <link>https://yeahpeace.com/do-not-enable-hsts/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/do-not-enable-hsts/</guid>
+                <pubDate>Tue, 02 Feb 2021 08:44:33 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>关于是否需要启用 HSTS 的一些探讨, 并给出自己的观点.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/web-development/">web development</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/hsts/">hsts</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Ubuntu 20.10 上搭建 WordPress 博客</title>
+                <link>https://yeahpeace.com/deploy-wordpress-blog-on-ubuntu/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/deploy-wordpress-blog-on-ubuntu/</guid>
+                <pubDate>Tue, 02 Feb 2021 06:27:54 &#43;0000</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>详细介绍了 WordPress 博客的搭建过程, 适用于 Debian 系的 linux.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/web-development/">web development</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/wordpress/">wordpress</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
