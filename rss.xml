@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 07 Mar 2021 13:20:50 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 14:09:36 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://yeahpeace.com/rss.xml" />
         
@@ -60,18 +60,6 @@
                                 
                                 
                                     <category domain="https://yeahpeace.com/tags/hugo/">hugo</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://yeahpeace.com/tags/cloudflare/">cloudflare</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://yeahpeace.com/tags/github-pages/">github pages</category>
                                 
                             
                         
@@ -117,12 +105,6 @@
                                 
                                 
                                     <category domain="https://yeahpeace.com/tags/wordpress/">wordpress</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://yeahpeace.com/tags/markdown/">markdown</category>
                                 
                             
                         
