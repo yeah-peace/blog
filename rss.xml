@@ -15,15 +15,15 @@
             <language>en</language>
         
         
-            <managingEditor>me@yeahpeace.com (yp)</managingEditor>
+            <managingEditor>me@yeahpeace.com (yeahpeace)</managingEditor>
         
         
-            <webMaster>me@yeahpeace.com (yp)</webMaster>
+            <webMaster>me@yeahpeace.com (yeahpeace)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 07 Mar 2021 20:37:38 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 20:49:05 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://yeahpeace.com/rss.xml" />
         
@@ -34,7 +34,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/pixiv-images-reverse-proxy-with-cloudflare-workers/</guid>
                 <pubDate>Sun, 07 Mar 2021 18:05:58 &#43;0800</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>&lt;p&gt;The image domain of Pixiv is &lt;code&gt;i.pximg.net&lt;/code&gt;, which checks the referer of requests. If the referer is not one of domains that belong to Pixiv, requests will be blocked. So, traditional reverse proxy may not work.&lt;/p&gt;</description>
@@ -79,7 +79,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/deploy-reverse-proxy-with-cloudflare-workers/</guid>
                 <pubDate>Sun, 07 Mar 2021 15:58:45 &#43;0800</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>&lt;p&gt;This is a script running on Cloudflare Workers to make a reverse proxy.&lt;/p&gt;</description>
@@ -124,7 +124,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/update-sites-with-script/</guid>
                 <pubDate>Sat, 06 Mar 2021 22:48:53 &#43;0800</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>&lt;p&gt;Static sites like mine can easily use Github Pages and Cloudflare to deploy and speed up. However, it&amp;rsquo;s annoying to generate, publish and purge cache by typing every command manually. So, we can use a script to automate this process.&lt;/p&gt;</description>
@@ -163,7 +163,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/from-wordpress-to-hugo/</guid>
                 <pubDate>Sat, 06 Mar 2021 12:20:03 &#43;0800</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>&lt;p&gt;经过几天的折腾, 本站已经从 WordPress 迁移到 Hugo, 并托管在 Github Pages 上.&lt;/p&gt;…</description>
@@ -208,7 +208,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/use-vless-instead-of-vmess/</guid>
                 <pubDate>Thu, 04 Mar 2021 05:08:45 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Show how to use VLESS to replace VMess.</description>
@@ -253,7 +253,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/chattr-and-lsattr-usage/</guid>
                 <pubDate>Mon, 01 Mar 2021 14:42:29 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Show the basic usage of chattr and lsattr.</description>
@@ -298,7 +298,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/firedog/</guid>
                 <pubDate>Sat, 27 Feb 2021 15:46:05 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Show the new Firefox logo, which is Firedog.</description>
@@ -343,7 +343,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/categories-vs-tags/</guid>
                 <pubDate>Fri, 26 Feb 2021 06:36:16 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Introduce the difference between categories and tags.</description>
@@ -388,7 +388,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/to-be-great/</guid>
                 <pubDate>Thu, 25 Feb 2021 09:11:52 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>The only thing is to be great, not to appear so.</description>
@@ -419,7 +419,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/generate-uuid-in-linux/</guid>
                 <pubDate>Sun, 21 Feb 2021 09:55:38 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Show how to generate UUID on Linux.</description>
@@ -458,7 +458,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/why-chinese-cannot-use-twitter-and-facebook/</guid>
                 <pubDate>Sun, 21 Feb 2021 07:49:57 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>转载 2 月 18 日中国外交部例行记者会上香港中评社记者所提问题及华春莹的回答.</description>
@@ -497,7 +497,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/rar-usage/</guid>
                 <pubDate>Sun, 21 Feb 2021 04:52:41 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>List some common usage of rar.</description>
@@ -536,7 +536,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/deploy-v2ray-on-an-existing-server/</guid>
                 <pubDate>Sat, 20 Feb 2021 03:55:32 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Show how to deploy V2Ray on an existing web server.</description>
@@ -581,7 +581,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/proper-http-request-headers/</guid>
                 <pubDate>Fri, 19 Feb 2021 10:47:46 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>List some proper HTTP request headers.</description>
@@ -620,7 +620,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/secure-sites-with-cloudflare/</guid>
                 <pubDate>Thu, 18 Feb 2021 06:04:38 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Show how to secure your websites by using Cloudflare.</description>
@@ -665,7 +665,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/hide-trackers/</guid>
                 <pubDate>Wed, 17 Feb 2021 10:39:08 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Show how to hide trackers so that they are not blocked.</description>
@@ -704,7 +704,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/use-cloudflare-to-secure-v2ray/</guid>
                 <pubDate>Tue, 16 Feb 2021 05:22:50 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Show how to secure V2Ray with Cloudflare.</description>
@@ -749,7 +749,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/configuration-after-installing-wordpress/</guid>
                 <pubDate>Mon, 15 Feb 2021 07:09:10 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Show some configuration after installing WordPress.</description>
@@ -788,7 +788,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/tweaks-for-linux/</guid>
                 <pubDate>Sun, 14 Feb 2021 08:09:55 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Introduce some tweaks for Linux.</description>
@@ -819,7 +819,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/self-in-the-internet-age/</guid>
                 <pubDate>Sat, 13 Feb 2021 12:33:31 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>转载梁文道在 2013 年作的一篇关于社交媒体的演讲。</description>
@@ -858,7 +858,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/ssh-login-without-password/</guid>
                 <pubDate>Sat, 13 Feb 2021 05:08:04 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Show how to login via SSH without password.</description>
@@ -897,7 +897,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/pgp-key-generate/</guid>
                 <pubDate>Sat, 13 Feb 2021 04:25:36 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Notify that I generated my PGP key and show how to send me encrypted files.</description>
@@ -942,7 +942,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/sha-256-implementation/</guid>
                 <pubDate>Fri, 12 Feb 2021 12:45:59 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Show the SHA-256 inplementation in C++.</description>
@@ -981,7 +981,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/happy-new-year/</guid>
                 <pubDate>Thu, 11 Feb 2021 16:00:32 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>新年快乐!</description>
@@ -1012,7 +1012,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/deploy-a-v2ray-server/</guid>
                 <pubDate>Wed, 10 Feb 2021 08:26:23 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Use V2Ray to bypass censorship.</description>
@@ -1063,7 +1063,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/about-signal-tls-proxy/</guid>
                 <pubDate>Tue, 09 Feb 2021 11:53:47 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>An archive about Signal&amp;rsquo;s TLS proxy.</description>
@@ -1108,7 +1108,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/deploy-a-shadowsocks-server/</guid>
                 <pubDate>Mon, 08 Feb 2021 12:49:15 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>Use Shadowsocks-libev to bypass censorship.</description>
@@ -1147,7 +1147,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/clue/</guid>
                 <pubDate>Sun, 07 Feb 2021 01:21:33 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>介绍 &amp;ldquo;妙探寻凶&amp;rdquo; 桌游的玩法.</description>
@@ -1186,7 +1186,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/recommended-wordpress-plugins/</guid>
                 <pubDate>Fri, 05 Feb 2021 21:57:54 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>List some recommended WordPress plugins that make sites more powerful.</description>
@@ -1225,7 +1225,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/control-terminal-on-linux/</guid>
                 <pubDate>Thu, 04 Feb 2021 15:10:46 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>整理 Linux 控制终端的 C++ 代码.</description>
@@ -1270,7 +1270,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/the-longer-telegram-toward-a-new-american-china-strategy/</guid>
                 <pubDate>Wed, 03 Feb 2021 18:20:47 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>A great article about American China strategy.</description>
@@ -1315,7 +1315,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/you-get-modify-filename-max-length-limit/</guid>
                 <pubDate>Wed, 03 Feb 2021 14:55:05 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>记录 You-Get 文件名最大长度的修改原因及方法.</description>
@@ -1354,7 +1354,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/that-man/</guid>
                 <pubDate>Wed, 03 Feb 2021 02:56:30 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>搬运 3 个视频.</description>
@@ -1393,7 +1393,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/do-not-enable-hsts/</guid>
                 <pubDate>Tue, 02 Feb 2021 08:44:33 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>关于是否需要启用 HSTS 的一些探讨, 并给出自己的观点.</description>
@@ -1432,7 +1432,7 @@
                 <guid isPermaLink="true">https://yeahpeace.com/deploy-wordpress-blog-on-ubuntu/</guid>
                 <pubDate>Tue, 02 Feb 2021 06:27:54 &#43;0000</pubDate>
                 
-                    <author>me@yeahpeace.com (yp)</author>
+                    <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 <description>详细介绍了 WordPress 博客的搭建过程, 适用于 Debian 系的 linux.</description>
