@@ -60,7 +60,7 @@
         "description": "详细介绍了 WordPress 博客的搭建过程, 适用于 Debian 系的 linux.",
         "inLanguage" : "en",
         "articleSection": "posts",
-        "wordCount":  984 ,
+        "wordCount":  983 ,
         "image": "https://yeahpeace.com/icons/apple-touch-icon.png",
         "author": {
             "@type": "Person",
@@ -240,7 +240,7 @@
     
     
         
-        <span class="post-meta-item wordcount"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon post-meta-icon"><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg>&nbsp;984</span>
+        <span class="post-meta-item wordcount"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon post-meta-icon"><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg>&nbsp;983</span>
     
     
         
@@ -305,15 +305,8 @@ swapon /swap/swapfile
 </code></pre></td></tr></table></div>
 </div>
 </div><p>以上命令创建了约 2 GB 的虚拟内存, 但重启后就无效了, 因为没有设置开机挂载. 想要永久生效, 须修改 <code>/etc/fstab</code> 文件, 添加如下一行:</p>
-<div class="highlight"><div class="chroma">
-<div class="table-container"><table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">/swap/swapfile swap swap defaults 0 0
-</code></pre></td></tr></table></div>
-</div>
-</div><p>安装 phpMyAdmin 时会弹出两个窗口, 第一个是选择网络服务器, 按上下键将光标移至 <code>apache2</code> 后按空格键选中, 然后按 Tab 将光标移至 OK, 最后按下回车确认.</p>
+<pre><code>/swap/swapfile swap swap defaults 0 0
+</code></pre><p>安装 phpMyAdmin 时会弹出两个窗口, 第一个是选择网络服务器, 按上下键将光标移至 <code>apache2</code> 后按空格键选中, 然后按 Tab 将光标移至 OK, 最后按下回车确认.</p>
 <p>第二个会询问是否使用 dbconfig-common 设置数据库, 选择 Yes, 然后设置密码并确认.</p>
 <h2 id="三-配置-tls-证书">三, 配置 TLS 证书</h2>
 <p>首先安装 Certbot:</p>
