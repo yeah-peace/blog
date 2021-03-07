@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Yeah ~ peace !</title>
     <subtitle type="html">A personal blog.</subtitle>
-    <updated>2021-03-07T20:49:05&#43;08:00</updated>
+    <updated>2021-03-07T22:23:03&#43;08:00</updated>
     <id>https://yeahpeace.com/</id>
     <link rel="alternate" type="text/html" href="https://yeahpeace.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://yeahpeace.com/atom.xml" />
@@ -16,6 +16,39 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
+        <entry>
+            <title type="text">Tweaks for Proxy Servers</title>
+            <link rel="alternate" type="text/html" href="https://yeahpeace.com/tweaks-for-proxy-servers/" />
+            <id>https://yeahpeace.com/tweaks-for-proxy-servers/</id>
+            <updated>2021-03-07T22:22:18&#43;08:00</updated>
+            <published>2021-03-07T22:12:27&#43;08:00</published>
+            <author>
+                    <name>yeahpeace</name>
+                    <uri>https://yeahpeace.com/</uri>
+                    <email>me@yeahpeace.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;These tweaks can reduce latency and accelerate connection speed for proxy servers.&lt;/p&gt;</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yeahpeace.com/categories/system-management/" term="system management" label="system management" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Pixiv Images Reverse Proxy with Cloudflare Workers</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/pixiv-images-reverse-proxy-with-cloudflare-workers/" />
