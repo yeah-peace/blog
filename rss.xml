@@ -7,7 +7,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>YP&#39;s site</title>
+        <title>Yeah ~ peace !</title>
         <link>https://yeahpeace.com/</link>
         <description>A personal blog.</description>
         <generator>Hugo 0.80.0 https://gohugo.io/</generator>
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 07 Mar 2021 18:26:15 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 20:37:38 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://yeahpeace.com/rss.xml" />
         
