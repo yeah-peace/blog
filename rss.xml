@@ -23,10 +23,55 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 07 Mar 2021 16:24:32 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 18:26:15 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://yeahpeace.com/rss.xml" />
         
+        
+            <item>
+                <title>Pixiv Images Reverse Proxy with Cloudflare Workers</title>
+                <link>https://yeahpeace.com/pixiv-images-reverse-proxy-with-cloudflare-workers/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/pixiv-images-reverse-proxy-with-cloudflare-workers/</guid>
+                <pubDate>Sun, 07 Mar 2021 18:05:58 &#43;0800</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>&lt;p&gt;The image domain of Pixiv is &lt;code&gt;i.pximg.net&lt;/code&gt;, which checks the referer of requests. If the referer is not one of domains that belong to Pixiv, requests will be blocked. So, traditional reverse proxy may not work.&lt;/p&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/web-development/">web development</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/reverse-proxy/">reverse proxy</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/cloudflare/">cloudflare</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Deploy Reverse Proxy with Cloudflare Workers</title>
