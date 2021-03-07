@@ -23,10 +23,55 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 07 Mar 2021 14:09:36 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 16:16:25 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://yeahpeace.com/rss.xml" />
         
+        
+            <item>
+                <title>Deploy Reverse Proxy with Cloudflare Workers</title>
+                <link>https://yeahpeace.com/deploy-reverse-proxy-with-cloudflare-workers/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/deploy-reverse-proxy-with-cloudflare-workers/</guid>
+                <pubDate>Sun, 07 Mar 2021 15:58:45 &#43;0800</pubDate>
+                
+                    <author>me@yeahpeace.com (yp)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>&lt;p&gt;This is a script running on Cloudflare Workers to make a reverse proxy.&lt;/p&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/web-development/">web development</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/reverse-proxy/">reverse proxy</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/cloudflare/">cloudflare</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Update Sites with Script</title>
