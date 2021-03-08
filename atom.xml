@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Yeah ~ peace !</title>
     <subtitle type="html">A personal blog.</subtitle>
-    <updated>2021-03-08T13:16:44&#43;08:00</updated>
+    <updated>2021-03-08T13:23:05&#43;08:00</updated>
     <id>https://yeahpeace.com/</id>
     <link rel="alternate" type="text/html" href="https://yeahpeace.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://yeahpeace.com/atom.xml" />
@@ -17,17 +17,17 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
         <entry>
-            <title type="text">Reduce Git Folder Size</title>
-            <link rel="alternate" type="text/html" href="https://yeahpeace.com/reduce-git-folder-size/" />
-            <id>https://yeahpeace.com/reduce-git-folder-size/</id>
-            <updated>2021-03-08T12:32:00&#43;08:00</updated>
+            <title type="text">Reduce Git Folders&#39; Size</title>
+            <link rel="alternate" type="text/html" href="https://yeahpeace.com/reduce-git-folders-size/" />
+            <id>https://yeahpeace.com/reduce-git-folders-size/</id>
+            <updated>2021-03-08T13:20:39&#43;08:00</updated>
             <published>2021-03-08T12:12:15&#43;08:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;The most important thing is to avoid using binary files in your code folders. Besides, you can run this command to manually reduce &lt;code&gt;.git&lt;/code&gt; folder&amp;rsquo;s size.&lt;/p&gt;</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;The most important thing is to avoid using binary files in your code folders. Besides, you can run these commands to manually reduce &lt;code&gt;.git&lt;/code&gt; folders&#39; size.&lt;/p&gt;</summary>
             
             
             
@@ -138,10 +138,10 @@
         </entry>
     
         <entry>
-            <title type="text">Deploy Reverse Proxy with Cloudflare Workers</title>
-            <link rel="alternate" type="text/html" href="https://yeahpeace.com/deploy-reverse-proxy-with-cloudflare-workers/" />
-            <id>https://yeahpeace.com/deploy-reverse-proxy-with-cloudflare-workers/</id>
-            <updated>2021-03-07T16:16:05&#43;08:00</updated>
+            <title type="text">Deploy a Reverse Proxy with Cloudflare Workers</title>
+            <link rel="alternate" type="text/html" href="https://yeahpeace.com/deploy-a-reverse-proxy-with-cloudflare-workers/" />
+            <id>https://yeahpeace.com/deploy-a-reverse-proxy-with-cloudflare-workers/</id>
+            <updated>2021-03-08T13:21:57&#43;08:00</updated>
             <published>2021-03-07T15:58:45&#43;08:00</published>
             <author>
                     <name>yeahpeace</name>
@@ -1552,9 +1552,9 @@
     
         <entry>
             <title type="text">Ubuntu 20.10 上搭建 WordPress 博客</title>
-            <link rel="alternate" type="text/html" href="https://yeahpeace.com/deploy-wordpress-blog-on-ubuntu/" />
-            <id>https://yeahpeace.com/deploy-wordpress-blog-on-ubuntu/</id>
-            <updated>2021-03-08T12:31:01&#43;08:00</updated>
+            <link rel="alternate" type="text/html" href="https://yeahpeace.com/deploy-a-wordpress-blog-on-ubuntu/" />
+            <id>https://yeahpeace.com/deploy-a-wordpress-blog-on-ubuntu/</id>
+            <updated>2021-03-08T13:22:21&#43;08:00</updated>
             <published>2021-02-02T06:27:54&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>

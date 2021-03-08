@@ -23,21 +23,21 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 08 Mar 2021 13:16:44 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 13:23:05 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://yeahpeace.com/rss.xml" />
         
         
             <item>
-                <title>Reduce Git Folder Size</title>
-                <link>https://yeahpeace.com/reduce-git-folder-size/</link>
-                <guid isPermaLink="true">https://yeahpeace.com/reduce-git-folder-size/</guid>
+                <title>Reduce Git Folders&#39; Size</title>
+                <link>https://yeahpeace.com/reduce-git-folders-size/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/reduce-git-folders-size/</guid>
                 <pubDate>Mon, 08 Mar 2021 12:12:15 &#43;0800</pubDate>
                 
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>&lt;p&gt;The most important thing is to avoid using binary files in your code folders. Besides, you can run this command to manually reduce &lt;code&gt;.git&lt;/code&gt; folder&amp;rsquo;s size.&lt;/p&gt;</description>
+                <description>&lt;p&gt;The most important thing is to avoid using binary files in your code folders. Besides, you can run these commands to manually reduce &lt;code&gt;.git&lt;/code&gt; folders&#39; size.&lt;/p&gt;</description>
                 
                 
                 
@@ -144,9 +144,9 @@
             </item>
         
             <item>
-                <title>Deploy Reverse Proxy with Cloudflare Workers</title>
-                <link>https://yeahpeace.com/deploy-reverse-proxy-with-cloudflare-workers/</link>
-                <guid isPermaLink="true">https://yeahpeace.com/deploy-reverse-proxy-with-cloudflare-workers/</guid>
+                <title>Deploy a Reverse Proxy with Cloudflare Workers</title>
+                <link>https://yeahpeace.com/deploy-a-reverse-proxy-with-cloudflare-workers/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/deploy-a-reverse-proxy-with-cloudflare-workers/</guid>
                 <pubDate>Sun, 07 Mar 2021 15:58:45 &#43;0800</pubDate>
                 
                     <author>me@yeahpeace.com (yeahpeace)</author>
@@ -1492,8 +1492,8 @@
         
             <item>
                 <title>Ubuntu 20.10 上搭建 WordPress 博客</title>
-                <link>https://yeahpeace.com/deploy-wordpress-blog-on-ubuntu/</link>
-                <guid isPermaLink="true">https://yeahpeace.com/deploy-wordpress-blog-on-ubuntu/</guid>
+                <link>https://yeahpeace.com/deploy-a-wordpress-blog-on-ubuntu/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/deploy-a-wordpress-blog-on-ubuntu/</guid>
                 <pubDate>Tue, 02 Feb 2021 06:27:54 &#43;0000</pubDate>
                 
                     <author>me@yeahpeace.com (yeahpeace)</author>
