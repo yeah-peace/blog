@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Yeah ~ peace !</title>
     <subtitle type="html">A personal blog.</subtitle>
-    <updated>2021-03-08T13:23:05&#43;08:00</updated>
+    <updated>2021-03-08T15:00:28&#43;08:00</updated>
     <id>https://yeahpeace.com/</id>
     <link rel="alternate" type="text/html" href="https://yeahpeace.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://yeahpeace.com/atom.xml" />
@@ -370,7 +370,7 @@
             <title type="text">Firedog</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/firedog/" />
             <id>https://yeahpeace.com/firedog/</id>
-            <updated>2021-03-08T12:22:18&#43;08:00</updated>
+            <updated>2021-03-08T14:59:14&#43;08:00</updated>
             <published>2021-02-27T15:46:05&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
@@ -579,7 +579,7 @@
             <title type="text">Rar Usage</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/rar-usage/" />
             <id>https://yeahpeace.com/rar-usage/</id>
-            <updated>2021-03-08T12:23:29&#43;08:00</updated>
+            <updated>2021-03-08T14:59:14&#43;08:00</updated>
             <published>2021-02-21T04:52:41&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
@@ -1081,7 +1081,7 @@
             <title type="text">新年快乐!</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/happy-new-year/" />
             <id>https://yeahpeace.com/happy-new-year/</id>
-            <updated>2021-03-08T12:20:12&#43;08:00</updated>
+            <updated>2021-03-08T14:59:14&#43;08:00</updated>
             <published>2021-02-11T16:00:32&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
@@ -1114,7 +1114,7 @@
             <title type="text">Deploy a V2Ray Server</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/deploy-a-v2ray-server/" />
             <id>https://yeahpeace.com/deploy-a-v2ray-server/</id>
-            <updated>2021-03-07T12:18:35&#43;08:00</updated>
+            <updated>2021-03-08T14:59:14&#43;08:00</updated>
             <published>2021-02-10T08:26:23&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
@@ -1167,7 +1167,7 @@
             <title type="text">About Signal’s TLS Proxy</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/about-signal-tls-proxy/" />
             <id>https://yeahpeace.com/about-signal-tls-proxy/</id>
-            <updated>2021-03-07T12:18:35&#43;08:00</updated>
+            <updated>2021-03-08T14:59:14&#43;08:00</updated>
             <published>2021-02-09T11:53:47&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
@@ -1255,7 +1255,7 @@
             <title type="text">妙探寻凶 (Clue)</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/clue/" />
             <id>https://yeahpeace.com/clue/</id>
-            <updated>2021-03-07T12:20:02&#43;08:00</updated>
+            <updated>2021-03-08T14:59:14&#43;08:00</updated>
             <published>2021-02-07T01:21:33&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
@@ -1384,7 +1384,7 @@
             <title type="text">The Longer Telegram: Toward a new American China strategy</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/the-longer-telegram-toward-a-new-american-china-strategy/" />
             <id>https://yeahpeace.com/the-longer-telegram-toward-a-new-american-china-strategy/</id>
-            <updated>2021-03-08T12:35:41&#43;08:00</updated>
+            <updated>2021-03-08T14:59:14&#43;08:00</updated>
             <published>2021-02-03T18:20:47&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
@@ -1472,7 +1472,7 @@
             <title type="text">蛤?</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/that-man/" />
             <id>https://yeahpeace.com/that-man/</id>
-            <updated>2021-03-07T12:19:44&#43;08:00</updated>
+            <updated>2021-03-08T14:59:14&#43;08:00</updated>
             <published>2021-02-03T02:56:30&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
