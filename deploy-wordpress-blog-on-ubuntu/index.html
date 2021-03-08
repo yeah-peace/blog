@@ -54,7 +54,7 @@
         "@context": "https://schema.org",
         "@type": "BlogPosting",
         "datePublished": "2021-02-02T06:27:54+00:00",
-        "dateModified": "2021-03-07T12:19:35+08:00",
+        "dateModified": "2021-03-08T12:31:01+08:00",
         "url": "https://yeahpeace.com/deploy-wordpress-blog-on-ubuntu/",
         "headline": "Ubuntu 20.10 上搭建 WordPress 博客",
         "description": "详细介绍了 WordPress 博客的搭建过程, 适用于 Debian 系的 linux.",
@@ -97,7 +97,7 @@
 <meta property="og:locale" content="en" /><meta property="og:image" content="https://yeahpeace.com/icons/apple-touch-icon.png" />
     <meta property="og:type" content="article" />
     <meta property="article:published_time" content="2021-02-02T06:27:54&#43;00:00" />
-    <meta property="article:modified_time" content="2021-03-07T12:19:35&#43;08:00" />
+    <meta property="article:modified_time" content="2021-03-08T12:31:01&#43;08:00" />
     
     <meta property="article:section" content="posts" />
 
@@ -349,7 +349,7 @@ certbot certonly --standalone --agree-tos --register-unsafely-without-email -d y
 <span class="nb">SSLCertificateKeyFile</span> <span class="sx">/etc/letsencrypt/live/your-domain/privkey.pem</span>
 </code></pre></td></tr></table></div>
 </div>
-</div><p>再在 <code>VirtualHost</code> 区内添加这一行以移除 HSTS. 如果你不知道 HSTS 是什么, 请忽略这一步和下一步, 直接进入 &ldquo;启用 Apache 的 SSL 模块&rdquo; 部分 (关于这个, 我在<a href="https://drive.yeahpeace.com/blog/do-not-enable-hsts/" target="_blank" rel="noopener" target="_blank" rel="noreferrer noopener">这篇文章</a>中给予了说明):</p>
+</div><p>再在 <code>VirtualHost</code> 区内添加这一行以移除 HSTS. 如果你不知道 HSTS 是什么, 请忽略这一步和下一步, 直接进入 &ldquo;启用 Apache 的 SSL 模块&rdquo; 部分 (关于这个, 我在<a href="https://yeahpeace.com/do-not-enable-hsts/" target="_blank" rel="noopener" target="_blank" rel="noreferrer noopener">这篇文章</a>中给予了说明):</p>
 <div class="highlight"><div class="chroma">
 <div class="table-container"><table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -539,7 +539,7 @@ cp -rf wordpress/* /var/www/html
             
                 <div class="share-item twitter">
                     
-                    <a href="https://twitter.com/share?url=https://yeahpeace.com/deploy-wordpress-blog-on-ubuntu/&amp;text=Ubuntu%2020.10%20%e4%b8%8a%e6%90%ad%e5%bb%ba%20WordPress%20%e5%8d%9a%e5%ae%a2&amp;hashtags=wordpress,&amp;via=" title="Share on Twitter" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon twitter-icon"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg></a>
+                    <a href="https://twitter.com/share?url=https://yeahpeace.com/deploy-wordpress-blog-on-ubuntu/&amp;text=Ubuntu%2020.10%20%e4%b8%8a%e6%90%ad%e5%bb%ba%20WordPress%20%e5%8d%9a%e5%ae%a2&amp;hashtags=wordpress,apache,&amp;via=" title="Share on Twitter" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon twitter-icon"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg></a>
                 </div>
             
 
@@ -625,6 +625,10 @@ cp -rf wordpress/* /var/www/html
             <ul class="related-list">
                 
                     <li class="related-item">
+                        <a href="/deploy-v2ray-on-an-existing-server/" class="related-link">Deploy V2Ray on an Existing Server</a>
+                    </li>
+                
+                    <li class="related-item">
                         <a href="/configuration-after-installing-wordpress/" class="related-link">Configuration After Installing WordPress</a>
                     </li>
                 
@@ -638,10 +642,6 @@ cp -rf wordpress/* /var/www/html
                 
                     <li class="related-item">
                         <a href="/pixiv-images-reverse-proxy-with-cloudflare-workers/" class="related-link">Pixiv Images Reverse Proxy with Cloudflare Workers</a>
-                    </li>
-                
-                    <li class="related-item">
-                        <a href="/deploy-reverse-proxy-with-cloudflare-workers/" class="related-link">Deploy Reverse Proxy with Cloudflare Workers</a>
                     </li>
                 
             </ul>
@@ -660,6 +660,14 @@ cp -rf wordpress/* /var/www/html
                 
                     
                     <a href="/tags/wordpress/" rel="tag" class="post-tags-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon tag-icon"><path d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"/></svg>wordpress</a>
+                
+            
+                
+                
+                
+                
+                    
+                    <a href="/tags/apache/" rel="tag" class="post-tags-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon tag-icon"><path d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"/></svg>apache</a>
                 
             
         </div>

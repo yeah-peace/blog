@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Yeah ~ peace !</title>
     <subtitle type="html">A personal blog.</subtitle>
-    <updated>2021-03-08T09:01:20&#43;08:00</updated>
+    <updated>2021-03-08T12:32:14&#43;08:00</updated>
     <id>https://yeahpeace.com/</id>
     <link rel="alternate" type="text/html" href="https://yeahpeace.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://yeahpeace.com/atom.xml" />
@@ -16,6 +16,47 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
+        <entry>
+            <title type="text">Reduce Git Folder Size</title>
+            <link rel="alternate" type="text/html" href="https://yeahpeace.com/reduce-git-folder-size/" />
+            <id>https://yeahpeace.com/reduce-git-folder-size/</id>
+            <updated>2021-03-08T12:32:00&#43;08:00</updated>
+            <published>2021-03-08T12:12:15&#43;08:00</published>
+            <author>
+                    <name>yeahpeace</name>
+                    <uri>https://yeahpeace.com/</uri>
+                    <email>me@yeahpeace.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;The most important thing is to avoid using binary files in your code folders. Besides, you can run this command to manually reduce &lt;code&gt;.git&lt;/code&gt; folder&amp;rsquo;s size.&lt;/p&gt;</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yeahpeace.com/categories/application-usage/" term="application usage" label="application usage" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yeahpeace.com/tags/git/" term="git" label="git" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Tweaks for Proxy Servers</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/tweaks-for-proxy-servers/" />
@@ -235,14 +276,14 @@
             <title type="text">Use VLESS Instead of VMess</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/use-vless-instead-of-vmess/" />
             <id>https://yeahpeace.com/use-vless-instead-of-vmess/</id>
-            <updated>2021-03-07T18:13:43&#43;08:00</updated>
+            <updated>2021-03-08T12:29:16&#43;08:00</updated>
             <published>2021-03-04T05:08:45&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Show how to use VLESS to replace VMess.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Now VLESS has better performance than VMess. Moreover, Xray is much more actively developed than V2Ray. So, it&amp;rsquo;s recommended to use VLESS to replace VMess.&lt;/p&gt;</summary>
             
             
             
@@ -329,14 +370,14 @@
             <title type="text">Firedog</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/firedog/" />
             <id>https://yeahpeace.com/firedog/</id>
-            <updated>2021-03-07T12:18:35&#43;08:00</updated>
+            <updated>2021-03-08T12:22:18&#43;08:00</updated>
             <published>2021-02-27T15:46:05&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Show the new Firefox logo, which is Firedog.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;First, I have to say, fox does not really leave. But if you are active on the Internet these days, you may have seen memes about Firefox logo.&lt;/p&gt;</summary>
             
             
             
@@ -538,14 +579,14 @@
             <title type="text">Rar Usage</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/rar-usage/" />
             <id>https://yeahpeace.com/rar-usage/</id>
-            <updated>2021-03-07T12:18:35&#43;08:00</updated>
+            <updated>2021-03-08T12:23:29&#43;08:00</updated>
             <published>2021-02-21T04:52:41&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">List some common usage of rar.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;&lt;code&gt;rar&lt;/code&gt; is a command tool for archiving and extracting rar files. Its official website is &lt;a href=&#34;https://www.win-rar.com/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
             
             
             
@@ -626,14 +667,14 @@
             <title type="text">Proper HTTP Request Headers</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/proper-http-request-headers/" />
             <id>https://yeahpeace.com/proper-http-request-headers/</id>
-            <updated>2021-03-07T12:18:35&#43;08:00</updated>
+            <updated>2021-03-08T12:23:49&#43;08:00</updated>
             <published>2021-02-19T10:47:46&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">List some proper HTTP request headers.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;When using cURL or other tools, sometimes we need a proper HTTP request header to avoid being identified as robots. Here are some examples.&lt;/p&gt;</summary>
             
             
             
@@ -667,14 +708,14 @@
             <title type="text">Secure Sites with Cloudflare</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/secure-sites-with-cloudflare/" />
             <id>https://yeahpeace.com/secure-sites-with-cloudflare/</id>
-            <updated>2021-03-07T12:18:35&#43;08:00</updated>
+            <updated>2021-03-08T12:28:58&#43;08:00</updated>
             <published>2021-02-18T06:04:38&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Show how to secure your websites by using Cloudflare.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;&lt;a href=&#34;https://www.cloudflare.com/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;Cloudflare&lt;/a&gt; is a popular reverse proxy and CDN for WordPress site owners, mostly as it offers a convenient Free plan for personal sites and blogs. This plan provides access to Cloudflare’s global CDN, along with performance and security features.&lt;/p&gt;</summary>
             
             
             
@@ -699,12 +740,6 @@
                                 <category scheme="https://yeahpeace.com/tags/cloudflare/" term="cloudflare" label="cloudflare" />
                             
                         
-                            
-                            
-                            
-                                <category scheme="https://yeahpeace.com/tags/tls/" term="tls" label="tls" />
-                            
-                        
                     
                 
             
@@ -714,14 +749,14 @@
             <title type="text">Hide Trackers</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/hide-trackers/" />
             <id>https://yeahpeace.com/hide-trackers/</id>
-            <updated>2021-03-07T12:18:35&#43;08:00</updated>
+            <updated>2021-03-08T12:26:20&#43;08:00</updated>
             <published>2021-02-17T10:39:08&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Show how to hide trackers so that they are not blocked.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Trackers help make websites better. However, some visitors tend to block trackers. Here are ways to hide trackers so that they cannot be easily blocked.&lt;/p&gt;</summary>
             
             
             
@@ -876,14 +911,14 @@
             <title type="text">互联网时代的自我</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/self-in-the-internet-age/" />
             <id>https://yeahpeace.com/self-in-the-internet-age/</id>
-            <updated>2021-03-07T12:19:20&#43;08:00</updated>
+            <updated>2021-03-08T12:21:31&#43;08:00</updated>
             <published>2021-02-13T12:33:31&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">转载梁文道在 2013 年作的一篇关于社交媒体的演讲。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;注：这是梁文道在 2013 年作的演讲。&lt;/p&gt;…</summary>
             
             
             
@@ -958,14 +993,14 @@
             <title type="text">PGP Key Generate</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/pgp-key-generate/" />
             <id>https://yeahpeace.com/pgp-key-generate/</id>
-            <updated>2021-03-07T12:18:35&#43;08:00</updated>
+            <updated>2021-03-08T12:21:16&#43;08:00</updated>
             <published>2021-02-13T04:25:36&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Notify that I generated my PGP key and show how to send me encrypted files.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;I have generated my own PGP key. You can get my public key from &lt;em&gt;&lt;a href=&#34;https://yeahpeace.com/contact/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;Contact&lt;/a&gt;&lt;/em&gt; page.&lt;/p&gt;</summary>
             
             
             
@@ -1046,14 +1081,14 @@
             <title type="text">新年快乐!</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/happy-new-year/" />
             <id>https://yeahpeace.com/happy-new-year/</id>
-            <updated>2021-03-07T12:19:13&#43;08:00</updated>
+            <updated>2021-03-08T12:20:12&#43;08:00</updated>
             <published>2021-02-11T16:00:32&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">新年快乐!</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;祝大家春节玉快, 阖家欢落, 万四如意!&lt;/p&gt;…</summary>
             
             
             
@@ -1261,14 +1296,14 @@
             <title type="text">Recommended WordPress Plugins</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/recommended-wordpress-plugins/" />
             <id>https://yeahpeace.com/recommended-wordpress-plugins/</id>
-            <updated>2021-03-07T12:18:35&#43;08:00</updated>
+            <updated>2021-03-08T12:19:51&#43;08:00</updated>
             <published>2021-02-05T21:57:54&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">List some recommended WordPress plugins that make sites more powerful.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;To make WordPress sites more powerful and easier to use, I choose to use some plugins. These are what I am using and recommend.&lt;/p&gt;</summary>
             
             
             
@@ -1302,14 +1337,14 @@
             <title type="text">Linux 控制终端</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/control-terminal-on-linux/" />
             <id>https://yeahpeace.com/control-terminal-on-linux/</id>
-            <updated>2021-03-07T12:19:55&#43;08:00</updated>
+            <updated>2021-03-08T12:19:12&#43;08:00</updated>
             <published>2021-02-04T15:10:46&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">整理 Linux 控制终端的 C++ 代码.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;最近用 C++ 写一个基于终端的简单游戏时, 用到了 Linux 终端的一些控制方式. 整理一下以备查阅.&lt;/p&gt;…</summary>
             
             
             
@@ -1349,14 +1384,14 @@
             <title type="text">The Longer Telegram: Toward a new American China strategy</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/the-longer-telegram-toward-a-new-american-china-strategy/" />
             <id>https://yeahpeace.com/the-longer-telegram-toward-a-new-american-china-strategy/</id>
-            <updated>2021-03-07T12:18:35&#43;08:00</updated>
+            <updated>2021-03-08T12:19:38&#43;08:00</updated>
             <published>2021-02-03T18:20:47&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">A great article about American China strategy.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Forward from &lt;a rel=&#34;noreferrer noopener&#34; href=&#34;https://www.atlanticcouncil.org/&#34; data-type=&#34;URL&#34; data-id=&#34;https://www.atlanticcouncil.org/&#34; target=&#34;_blank&#34;&gt;Atlantic Council&lt;/a&gt;.&lt;/p&gt;</summary>
             
             
             
@@ -1519,7 +1554,7 @@
             <title type="text">Ubuntu 20.10 上搭建 WordPress 博客</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/deploy-wordpress-blog-on-ubuntu/" />
             <id>https://yeahpeace.com/deploy-wordpress-blog-on-ubuntu/</id>
-            <updated>2021-03-07T12:19:35&#43;08:00</updated>
+            <updated>2021-03-08T12:31:01&#43;08:00</updated>
             <published>2021-02-02T06:27:54&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
@@ -1549,6 +1584,12 @@
                             
                             
                                 <category scheme="https://yeahpeace.com/tags/wordpress/" term="wordpress" label="wordpress" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://yeahpeace.com/tags/apache/" term="apache" label="apache" />
                             
                         
                     

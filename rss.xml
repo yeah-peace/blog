@@ -23,10 +23,49 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 08 Mar 2021 09:01:20 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 12:32:14 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://yeahpeace.com/rss.xml" />
         
+        
+            <item>
+                <title>Reduce Git Folder Size</title>
+                <link>https://yeahpeace.com/reduce-git-folder-size/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/reduce-git-folder-size/</guid>
+                <pubDate>Mon, 08 Mar 2021 12:12:15 &#43;0800</pubDate>
+                
+                    <author>me@yeahpeace.com (yeahpeace)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>&lt;p&gt;The most important thing is to avoid using binary files in your code folders. Besides, you can run this command to manually reduce &lt;code&gt;.git&lt;/code&gt; folder&amp;rsquo;s size.&lt;/p&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/application-usage/">application usage</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/git/">git</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Tweaks for Proxy Servers</title>
@@ -242,7 +281,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>Show how to use VLESS to replace VMess.</description>
+                <description>&lt;p&gt;Now VLESS has better performance than VMess. Moreover, Xray is much more actively developed than V2Ray. So, it&amp;rsquo;s recommended to use VLESS to replace VMess.&lt;/p&gt;</description>
                 
                 
                 
@@ -332,7 +371,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>Show the new Firefox logo, which is Firedog.</description>
+                <description>&lt;p&gt;First, I have to say, fox does not really leave. But if you are active on the Internet these days, you may have seen memes about Firefox logo.&lt;/p&gt;</description>
                 
                 
                 
@@ -531,7 +570,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>List some common usage of rar.</description>
+                <description>&lt;p&gt;&lt;code&gt;rar&lt;/code&gt; is a command tool for archiving and extracting rar files. Its official website is &lt;a href=&#34;https://www.win-rar.com/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
                 
                 
                 
@@ -615,7 +654,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>List some proper HTTP request headers.</description>
+                <description>&lt;p&gt;When using cURL or other tools, sometimes we need a proper HTTP request header to avoid being identified as robots. Here are some examples.&lt;/p&gt;</description>
                 
                 
                 
@@ -654,7 +693,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>Show how to secure your websites by using Cloudflare.</description>
+                <description>&lt;p&gt;&lt;a href=&#34;https://www.cloudflare.com/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;Cloudflare&lt;/a&gt; is a popular reverse proxy and CDN for WordPress site owners, mostly as it offers a convenient Free plan for personal sites and blogs. This plan provides access to Cloudflare’s global CDN, along with performance and security features.&lt;/p&gt;</description>
                 
                 
                 
@@ -679,12 +718,6 @@
                                     <category domain="https://yeahpeace.com/tags/cloudflare/">cloudflare</category>
                                 
                             
-                                
-                                
-                                
-                                    <category domain="https://yeahpeace.com/tags/tls/">tls</category>
-                                
-                            
                         
                     
                 
@@ -699,7 +732,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>Show how to hide trackers so that they are not blocked.</description>
+                <description>&lt;p&gt;Trackers help make websites better. However, some visitors tend to block trackers. Here are ways to hide trackers so that they cannot be easily blocked.&lt;/p&gt;</description>
                 
                 
                 
@@ -853,7 +886,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>转载梁文道在 2013 年作的一篇关于社交媒体的演讲。</description>
+                <description>&lt;p&gt;注：这是梁文道在 2013 年作的演讲。&lt;/p&gt;…</description>
                 
                 
                 
@@ -931,7 +964,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>Notify that I generated my PGP key and show how to send me encrypted files.</description>
+                <description>&lt;p&gt;I have generated my own PGP key. You can get my public key from &lt;em&gt;&lt;a href=&#34;https://yeahpeace.com/contact/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;Contact&lt;/a&gt;&lt;/em&gt; page.&lt;/p&gt;</description>
                 
                 
                 
@@ -1015,7 +1048,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>新年快乐!</description>
+                <description>&lt;p&gt;祝大家春节玉快, 阖家欢落, 万四如意!&lt;/p&gt;…</description>
                 
                 
                 
@@ -1220,7 +1253,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>List some recommended WordPress plugins that make sites more powerful.</description>
+                <description>&lt;p&gt;To make WordPress sites more powerful and easier to use, I choose to use some plugins. These are what I am using and recommend.&lt;/p&gt;</description>
                 
                 
                 
@@ -1259,7 +1292,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>整理 Linux 控制终端的 C++ 代码.</description>
+                <description>&lt;p&gt;最近用 C++ 写一个基于终端的简单游戏时, 用到了 Linux 终端的一些控制方式. 整理一下以备查阅.&lt;/p&gt;…</description>
                 
                 
                 
@@ -1304,7 +1337,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>A great article about American China strategy.</description>
+                <description>&lt;p&gt;Forward from &lt;a rel=&#34;noreferrer noopener&#34; href=&#34;https://www.atlanticcouncil.org/&#34; data-type=&#34;URL&#34; data-id=&#34;https://www.atlanticcouncil.org/&#34; target=&#34;_blank&#34;&gt;Atlantic Council&lt;/a&gt;.&lt;/p&gt;</description>
                 
                 
                 
@@ -1489,6 +1522,12 @@
                                 
                                 
                                     <category domain="https://yeahpeace.com/tags/wordpress/">wordpress</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/apache/">apache</category>
                                 
                             
                         
