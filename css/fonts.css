@@ -85,8 +85,8 @@
   font-weight: 400;
   font-display: swap;
   src: local(''),
-       url('../fonts/noto-serif-sc-v8-latin-regular.woff2') format('woff2'),
-       url('../fonts/noto-serif-sc-v8-latin-regular.woff') format('woff');
+       url('../fonts/noto-serif-sc-v8-chinese-simplified-regular.woff2') format('woff2'),
+       url('../fonts/noto-serif-sc-v8-chinese-simplified-regular.woff') format('woff');
 }
 @font-face {
   font-family: 'Noto Serif SC';
@@ -94,6 +94,6 @@
   font-weight: 700;
   font-display: swap;
   src: local(''),
-       url('../fonts/noto-serif-sc-v8-latin-700.woff2') format('woff2'),
-       url('../fonts/noto-serif-sc-v8-latin-700.woff') format('woff');
+       url('../fonts/noto-serif-sc-v8-chinese-simplified-700.woff2') format('woff2'),
+       url('../fonts/noto-serif-sc-v8-chinese-simplified-700.woff') format('woff');
 }
