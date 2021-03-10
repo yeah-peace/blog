@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yeahpeace.com/categories/application-usage/</loc>
-    <lastmod>2021-03-08T14:59:14+08:00</lastmod>
-  </url><url>
     <loc>https://yeahpeace.com/categories/</loc>
+    <lastmod>2021-03-10T22:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://yeahpeace.com/categories/personal-thoughts/</loc>
+    <lastmod>2021-03-10T22:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://yeahpeace.com/posts/</loc>
+    <lastmod>2021-03-10T22:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://yeahpeace.com/</loc>
+    <lastmod>2021-03-10T22:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://yeahpeace.com/how-to-ask-questions-the-smart-way/</loc>
+    <lastmod>2021-03-10T22:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://yeahpeace.com/categories/application-usage/</loc>
     <lastmod>2021-03-08T14:59:14+08:00</lastmod>
   </url><url>
     <loc>https://yeahpeace.com/tags/git/</loc>
     <lastmod>2021-03-08T13:20:39+08:00</lastmod>
   </url><url>
-    <loc>https://yeahpeace.com/posts/</loc>
-    <lastmod>2021-03-08T14:59:14+08:00</lastmod>
-  </url><url>
     <loc>https://yeahpeace.com/reduce-git-folders-size/</loc>
     <lastmod>2021-03-08T13:20:39+08:00</lastmod>
   </url><url>
     <loc>https://yeahpeace.com/tags/</loc>
-    <lastmod>2021-03-08T14:59:14+08:00</lastmod>
-  </url><url>
-    <loc>https://yeahpeace.com/</loc>
     <lastmod>2021-03-08T14:59:14+08:00</lastmod>
   </url><url>
     <loc>https://yeahpeace.com/categories/system-management/</loc>
@@ -84,9 +90,6 @@
     <lastmod>2021-03-08T14:59:14+08:00</lastmod>
   </url><url>
     <loc>https://yeahpeace.com/tags/mozilla/</loc>
-    <lastmod>2021-03-08T14:59:14+08:00</lastmod>
-  </url><url>
-    <loc>https://yeahpeace.com/categories/personal-thoughts/</loc>
     <lastmod>2021-03-08T14:59:14+08:00</lastmod>
   </url><url>
     <loc>https://yeahpeace.com/categories-vs-tags/</loc>
