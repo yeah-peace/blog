@@ -472,7 +472,14 @@ e/TO12IyzJkuOr1iiNwtkaGFZuGrX9xFfvYQOgm8uKAABfFxTp1nQmEVbuM2LqTM
 
 
         </div>
-        
+        <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('\/sw.js');
+            });
+        }
+    </script>
+
 
         
 

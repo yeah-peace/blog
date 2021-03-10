@@ -733,7 +733,14 @@ systemctl <span class="nb">enable</span> v2ray --now
 
 
         </div>
-        
+        <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('\/sw.js');
+            });
+        }
+    </script>
+
 
         
 

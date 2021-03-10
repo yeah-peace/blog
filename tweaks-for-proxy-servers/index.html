@@ -540,7 +540,14 @@ root hard nofile 51200
 
 
         </div>
-        
+        <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('\/sw.js');
+            });
+        }
+    </script>
+
 
         
 
