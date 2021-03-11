@@ -54,7 +54,7 @@
         "@context": "https://schema.org",
         "@type": "BlogPosting",
         "datePublished": "2021-02-03T14:55:05+00:00",
-        "dateModified": "2021-03-07T12:19:50+08:00",
+        "dateModified": "2021-03-11T12:33:22+08:00",
         "url": "https://yeahpeace.com/you-get-modify-filename-max-length-limit/",
         "headline": "You-Get 修改文件名最大长度",
         "description": "记录 You-Get 文件名最大长度的修改原因及方法.",
@@ -97,7 +97,7 @@
 <meta property="og:locale" content="en" /><meta property="og:image" content="https://yeahpeace.com/icons/apple-touch-icon.png" />
     <meta property="og:type" content="article" />
     <meta property="article:published_time" content="2021-02-03T14:55:05&#43;00:00" />
-    <meta property="article:modified_time" content="2021-03-07T12:19:50&#43;08:00" />
+    <meta property="article:modified_time" content="2021-03-11T12:33:22&#43;08:00" />
     
     <meta property="article:section" content="posts" />
 
@@ -234,14 +234,14 @@
             <div class="post-body e-content">
               <h2 id="you-get-是什么">You-Get 是什么?</h2>
 <p>You-Get 是一个常用的视频下载工具, 使用 Python 编写, 开源发布在 Github 上并可以通过 pip 安装.</p>
-<p>Github 上的项目主页: <a href="https://github.com/soimort/you-get" target="_blank" rel="noopener" data-type="URL" data-id="https://github.com/soimort/you-get" target="_blank" rel="noreferrer noopener"><a href="https://github.com/soimort/you-get" target="_blank" rel="noopener">https://github.com/soimort/you-get</a></a></p>
+<p>Github 上的项目主页: <a href="https://github.com/soimort/you-get" target="_blank" rel="noopener">https://github.com/soimort/you-get</a></p>
 <h2 id="为什么要修改文件名最大长度">为什么要修改文件名最大长度?</h2>
 <p>先谈一个话题: 文件系统对文件名长度的限制.</p>
-<p>几乎所有文件系统对文件名长度都有限制, 例如, ext4, Btrfs 的限制是 255 <strong>bytes</strong>, NTFS 的限制是 255 <strong>characters</strong>. 更多的文件系统限制信息可以参考维基百科——<a rel="noreferrer noopener" href="https://zh.wikipedia.org/wiki/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AF%B9%E6%AF%94" target="_blank">文件系统的对比</a>页面.</p>
+<p>几乎所有文件系统对文件名长度都有限制, 例如, ext4, Btrfs 的限制是 255 <strong>bytes</strong>, NTFS 的限制是 255 <strong>characters</strong>. 更多的文件系统限制信息可以参考维基百科——<a href="https://zh.wikipedia.org/wiki/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AF%B9%E6%AF%94" target="_blank" rel="noopener"><em>文件系统的对比</em></a>页面.</p>
 <p>值得注意的是, 以上几个文件系统的例子中, 我特意强调了 byte 与 character 的区别. 对英文来说, 1 character = 1 byte, 而其他语言, 尤其是亚洲语系, 每个字符通常占用 2 ~ 3 个字节. 至于为什么是这个数字, 就要扯到 Unicode 字符集和 UTF-8 编码了, 这些日后再谈.</p>
 <p>换言之, 在涉及文件操作的软件开发过程中, 对文件名长度进行适当限制是必需的. 保守起见, 将长度限制设为 255 / 3 = 85, 甚至是 80 个字符似乎都是很有必要的.</p>
 <p>You-Get 的开发者就是这样设计的.</p>
-<p>但这也带来了问题: 在用 You-Get 执行下载时, 常常会因为所下载视频名称的<strong>字符数</strong>达到了 80 的限制而导致视频名称被强行截断, 特别是在下载 bilibili 视频的时候. 详情可以看<a rel="noreferrer noopener" href="https://github.com/soimort/you-get/pull/2771" data-type="URL" data-id="https://github.com/soimort/you-get/pull/2771" target="_blank">这个 issue</a> (You-Get 使用 pr 作为 issue 区).</p>
+<p>但这也带来了问题: 在用 You-Get 执行下载时, 常常会因为所下载视频名称的<strong>字符数</strong>达到了 80 的限制而导致视频名称被强行截断, 特别是在下载 bilibili 视频的时候. 详情可以看<a href="https://github.com/soimort/you-get/pull/2771" target="_blank" rel="noopener"><em>这个 issue</em></a> (You-Get 使用 pr 作为 issue 区).</p>
 <p>出现这种情况时, 往往不是视频名称的长度<strong>真正</strong>超过了文件系统的限制, 而是由于名称中包含了相当一部分英文导致 80 的 &ldquo;名额&rdquo; 被抢占了.</p>
 <p>彻底一点的解决方案当然是添加计算<strong>真正的字节数</strong>的模块, 并使其不超过 255. 但这需要针对不同的系统编码环境做适配, 这也是面临的主要障碍. 例如, 尽管在至少十年前几乎所有 Linux 发行版就统一采用 UTF-8 作为系统编码, 但直到现在 Windows 的简体中文版仍然使用 GBK 作为文件名的编码. 这就使得同一个汉字, 在 Linux 下是 3 字节长度, 在 Windows 下却可能是 2 字节长度, 给计算字节数带来相当不便. 更遑论 Windows 的日文版同样未使用 UTF-8, 而是使用 Shift JIS 编码. 在目前的文档编码流行度中, 居于 UTF-8 之后的正是 Shift JIS 和 GB 2312 (GBK 的前身), 也可谓是另一种意义上的 &ldquo;有名&rdquo; 了.</p>
 <p>简单的解决方案倒是有. You-Get 对文件名的截断操作在 <code>fs.py</code> 文件中. 对于 Linux, 这一文件应当在 <code>/usr/lib/python-version/site-packages/you_get/util</code> 目录或者 <code>/home/$USER/.local/lib/python-version/site-packages/you_get/util</code> 目录下. 文件的倒数第二行应当如下:</p>
