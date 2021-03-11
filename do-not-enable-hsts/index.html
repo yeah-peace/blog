@@ -54,7 +54,7 @@
         "@context": "https://schema.org",
         "@type": "BlogPosting",
         "datePublished": "2021-02-02T08:44:33+00:00",
-        "dateModified": "2021-03-07T12:19:40+08:00",
+        "dateModified": "2021-03-11T12:21:50+08:00",
         "url": "https://yeahpeace.com/do-not-enable-hsts/",
         "headline": "不要启用 HSTS!",
         "description": "关于是否需要启用 HSTS 的一些探讨, 并给出自己的观点.",
@@ -97,7 +97,7 @@
 <meta property="og:locale" content="en" /><meta property="og:image" content="https://yeahpeace.com/icons/apple-touch-icon.png" />
     <meta property="og:type" content="article" />
     <meta property="article:published_time" content="2021-02-02T08:44:33&#43;00:00" />
-    <meta property="article:modified_time" content="2021-03-07T12:19:40&#43;08:00" />
+    <meta property="article:modified_time" content="2021-03-11T12:21:50&#43;08:00" />
     
     <meta property="article:section" content="posts" />
 
@@ -235,13 +235,13 @@
               <h2 id="什么是-hsts">什么是 HSTS?</h2>
 <blockquote>
 <p><strong>HTTP严格传输安全</strong> (英语: <strong>H</strong>TTP <strong>S</strong>trict <strong>T</strong>ransport <strong>S</strong>ecurity, 缩写: <strong>HSTS</strong>)是一套由互联网工程任务组发布的互联网安全策略机制. 网站可以选择使用HSTS策略, 来让浏览器强制使用HTTPS与网站进行通信, 以减少会话劫持风险.</p>
+<p><em>来自维基百科——<a href="https://zh.wikipedia.org/wiki/HTTP%E4%B8%A5%E6%A0%BC%E4%BC%A0%E8%BE%93%E5%AE%89%E5%85%A8" target="_blank" rel="noopener">HTTP严格传输安全</a></em></p>
 </blockquote>
-<p><cite>来自维基百科——<a href="https://zh.wikipedia.org/wiki/HTTP%E4%B8%A5%E6%A0%BC%E4%BC%A0%E8%BE%93%E5%AE%89%E5%85%A8" target="_blank" rel="noopener" target="_blank" rel="noreferrer noopener">HTTP严格传输安全</a></cite></p>
 <p>看样子很棒, 并且在 TLS 证书很容易获得的当下, 似乎为了用户的安全应当部署 HSTS. 但 HSTS 有个问题, 就是:</p>
 <blockquote>
 <p>用户首次访问某网站是不受HSTS保护的. 这是因为首次访问时, 浏览器还未收到HSTS, 所以仍有可能通过明文HTTP来访问.</p>
+<p><em>来自维基百科——<a href="https://zh.wikipedia.org/wiki/HTTP%E4%B8%A5%E6%A0%BC%E4%BC%A0%E8%BE%93%E5%AE%89%E5%85%A8" target="_blank" rel="noopener">HTTP严格传输安全</a></em></p>
 </blockquote>
-<p><cite>来自维基百科——<a rel="noreferrer noopener" href="https://zh.wikipedia.org/wiki/HTTP%E4%B8%A5%E6%A0%BC%E4%BC%A0%E8%BE%93%E5%AE%89%E5%85%A8" target="_blank">HTTP严格传输安全</a></cite></p>
 <p>这怎么办呢? 聪明的浏览器厂商们 (特指 Mozilla 和 Google)想了个办法, 只要浏览器内置一个域名列表, 列表里包含启用 HSTS 的域名, 那么只要用户访问这些域名, 就会<strong>不可逆</strong>地跳转至相应 https 页面.</p>
 <p>以上所说的那个域名列表, 就是 HSTS 预加载列表.</p>
 <p>HSTS 与 HSTS 预加载的最重要区别, 是当用户<strong>第一次</strong>以 http 方式访问网站时, 仅启用了 HSTS 的网站 (如果没有设置 http 跳转至 https 的话)<strong>仍会以 http 方式</strong>访问, 而启用 HSTS 预加载后, 无论网站是否设置跳转, <strong>都会且只能以 https 方式</strong>访问.</p>
@@ -253,7 +253,7 @@
 <p>说到这里, 就提及另外一个问题: 什么样的网站才<strong>真正需要</strong> HSTS?</p>
 <p>像 Google, Microsoft, Amazon 这种靠云服务吃饭的企业当然需要, 涉及支付的 Paypal, Alipay 当然也需要, 依赖加密通信的 Signal, Telegram, Tutanota 同样需要. 那么一个由个人搭建并维护的博客, 不涉及支付, 就连评论功能也支持匿名的这样一个站点是否需要呢?</p>
 <p>答案当然见仁见智. 这个站点的某些域名之前用来搭配 V2Ray 科学上网, 所以为了安全与隐私配置了 HSTS 预加载, 而现在我正在努力移除它. 毕竟在我看来, 配置一个 http 跳转 https 就足够了, 没必要冒着无法访问的风险过于追求所谓 &ldquo;安全性&rdquo;.</p>
-<p>最后附上 <a rel="noreferrer noopener" href="https://hstspreload.org/" target="_blank">HSTS 预加载提交</a>的网站, MDN 上<a rel="noreferrer noopener" href="https://developer.mozilla.org/zh-CN/docs/Web/HTTP/HTTP_Strict_Transport_Security" data-type="URL" data-id="https://developer.mozilla.org/zh-CN/docs/Web/HTTP/HTTP_Strict_Transport_Security" target="_blank">关于 HSTS 的介绍</a>, <a rel="noreferrer noopener" href="https://hstspreload.org/removal/" data-type="URL" data-id="https://hstspreload.org/removal/" target="_blank">移除 HSTS 预加载</a>的网站, 以及 Firefox 内置的 <a rel="noreferrer noopener" href="https://hg.mozilla.org/mozilla-central/raw-file/tip/security/manager/ssl/nsSTSPreloadList.inc" data-type="URL" data-id="https://hg.mozilla.org/mozilla-central/raw-file/tip/security/manager/ssl/nsSTSPreloadList.inc" target="_blank">HSTS 预加载列表</a>.</p>
+<p>最后附上 <a href="https://hstspreload.org/" target="_blank" rel="noopener">HSTS 预加载提交</a>的网站, MDN 上<a href="https://developer.mozilla.org/zh-CN/docs/Web/HTTP/HTTP_Strict_Transport_Security" target="_blank" rel="noopener">关于 HSTS 的介绍</a>, <a href="https://hstspreload.org/removal/" target="_blank" rel="noopener">移除 HSTS 预加载</a>的网站, 以及 Firefox 内置的 <a href="https://hg.mozilla.org/mozilla-central/raw-file/tip/security/manager/ssl/nsSTSPreloadList.inc" target="_blank" rel="noopener">HSTS 预加载列表</a>.</p>
 
             </div>
 
