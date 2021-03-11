@@ -59,7 +59,7 @@
         "@context": "https://schema.org",
         "@type": "BlogPosting",
         "datePublished": "2021-02-18T06:04:38+00:00",
-        "dateModified": "2021-03-11T16:04:11+08:00",
+        "dateModified": "2021-03-11T23:07:07+08:00",
         "url": "https://yeahpeace.com/secure-sites-with-cloudflare/",
         "headline": "Secure Sites with Cloudflare",
         "description": "Cloudflare is a popular reverse proxy and CDN for WordPress site owners, mostly as it offers a convenient Free plan for personal sites and blogs. This plan provides access to Cloudflare’s global CDN, along with performance and security features.\n",
@@ -103,7 +103,7 @@
 <meta property="og:locale" content="en" /><meta property="og:image" content="https://yeahpeace.com/icons/apple-touch-icon.png" />
     <meta property="og:type" content="article" />
     <meta property="article:published_time" content="2021-02-18T06:04:38&#43;00:00" />
-    <meta property="article:modified_time" content="2021-03-11T16:04:11&#43;08:00" />
+    <meta property="article:modified_time" content="2021-03-11T23:07:07&#43;08:00" />
     
     <meta property="article:section" content="posts" />
 
@@ -231,15 +231,22 @@
 
             
 
-            <div class="post-body e-content">
+            <nav class="contents">
+  <h2 id="contents" class="contents-title">Contents</h2><ol class="toc">
+    <li><a id="contents:proxy-all-traffic" href="#proxy-all-traffic">Proxy all traffic</a></li>
+    <li><a id="contents:set-proper-tls-mode" href="#set-proper-tls-mode">Set proper TLS mode</a></li>
+    <li><a id="contents:reject-requests-that-bypass-cloudflare" href="#reject-requests-that-bypass-cloudflare">Reject requests that bypass Cloudflare</a></li>
+    <li><a id="contents:record-visitors-ip-addresses" href="#record-visitors-ip-addresses">Record visitors' IP addresses</a></li>
+  </ol>
+</nav><div class="post-body e-content">
               <p><a href="https://www.cloudflare.com/" target="_blank" rel="noopener"><em>Cloudflare</em></a> is a popular reverse proxy and CDN for WordPress site owners, mostly as it offers a convenient Free plan for personal sites and blogs. This plan provides access to Cloudflare&rsquo;s global CDN, along with performance and security features.</p>
 <p>Follow the steps below to secure your sites with Cloudflare.</p>
-<h2 id="proxy-all-traffic">Proxy all traffic</h2>
+<h2 id="proxy-all-traffic"><a href="#proxy-all-traffic" class="anchor-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon anchor-icon"><path d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"/></svg></a><a href="#contents:proxy-all-traffic" class="headings">Proxy all traffic</a></h2>
 <p>This is the most important step, which is to proxy as much traffic as possible in DNS setting. Otherwise, attackers can directly attack your host servers. It is also recommended to change your servers' IP addresses after proxying traffic.</p>
-<h2 id="set-proper-tls-mode">Set proper TLS mode</h2>
+<h2 id="set-proper-tls-mode"><a href="#set-proper-tls-mode" class="anchor-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon anchor-icon"><path d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"/></svg></a><a href="#contents:set-proper-tls-mode" class="headings">Set proper TLS mode</a></h2>
 <p>Set <em>SSL/TLS encryption mode</em> in SSL/TLS setting to <em>Full (Strict)</em>, which requires a trusted certificate. You can use <a href="https://certbot.eff.org/" target="_blank" rel="noopener"><em>Certbot</em></a> or Cloudflare&rsquo;s origin certificates. The latter is recommended, since certificates from <a href="https://letsencrypt.org/" target="_blank" rel="noopener"><em>Let&rsquo;s Encrypt</em></a> only last for 90 days, while those from Cloudflare can last for 15 years.</p>
 <p>Go to <em>Origin Server</em> and create a certificate. Remember to copy and paste public key and private key to files. Upload those files to your server and change your configuration properly.</p>
-<h2 id="reject-requests-that-bypass-cloudflare">Reject requests that bypass Cloudflare</h2>
+<h2 id="reject-requests-that-bypass-cloudflare"><a href="#reject-requests-that-bypass-cloudflare" class="anchor-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon anchor-icon"><path d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"/></svg></a><a href="#contents:reject-requests-that-bypass-cloudflare" class="headings">Reject requests that bypass Cloudflare</a></h2>
 <p>Set <em>Authenticated Origin Pulls</em> in <em>Origin Server</em> to on and do the following configuration in Apache.</p>
 <p>Download the public key from <a href="https://support.cloudflare.com/hc/en-us/article_attachments/360044928032/origin-pull-ca.pem" target="_blank" rel="noopener"><em>here</em></a>. Assume you upload it to folder <code>$FOLDER</code> in your web server.</p>
 <p>Add these lines in proper area in <code>/etc/apache2/sites-available/default-ssl.conf</code>.</p>
@@ -255,7 +262,7 @@
 <span class="nb">SSLCACertificateFile</span> $FOLDER/origin-pull-ca.pem
 </code></pre></td></tr></table></div>
 </div>
-</div><h2 id="record-visitors-ip-addresses">Record visitors' IP addresses</h2>
+</div><h2 id="record-visitors-ip-addresses"><a href="#record-visitors-ip-addresses" class="anchor-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon anchor-icon"><path d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"/></svg></a><a href="#contents:record-visitors-ip-addresses" class="headings">Record visitors' IP addresses</a></h2>
 <p>When using Cloudflare, your server can only receive requests from Cloudflare, since it acts as a reverse proxy. You may want to record visitors' real IP addresses.</p>
 <p>First, enable <em>mod_remoteip</em>.</p>
 <div class="highlight"><div class="chroma">
