@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Yeah ~ peace !</title>
     <subtitle type="html">A personal blog.</subtitle>
-    <updated>2021-03-11T12:39:52&#43;08:00</updated>
+    <updated>2021-03-11T13:01:00&#43;08:00</updated>
     <id>https://yeahpeace.com/</id>
     <link rel="alternate" type="text/html" href="https://yeahpeace.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://yeahpeace.com/atom.xml" />
@@ -613,14 +613,14 @@
             <title type="text">Rar Usage</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/rar-usage/" />
             <id>https://yeahpeace.com/rar-usage/</id>
-            <updated>2021-03-08T14:59:14&#43;08:00</updated>
+            <updated>2021-03-11T12:46:18&#43;08:00</updated>
             <published>2021-02-21T04:52:41&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;&lt;code&gt;rar&lt;/code&gt; is a command tool for archiving and extracting rar files. Its official website is &lt;a href=&#34;https://www.win-rar.com/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;&lt;code&gt;rar&lt;/code&gt; is a command tool for archiving and extracting rar files. Its official website is &lt;a href=&#34;https://www.win-rar.com/&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</summary>
             
             
             
@@ -945,7 +945,7 @@
             <title type="text">互联网时代的自我</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/self-in-the-internet-age/" />
             <id>https://yeahpeace.com/self-in-the-internet-age/</id>
-            <updated>2021-03-08T12:21:31&#43;08:00</updated>
+            <updated>2021-03-11T13:00:28&#43;08:00</updated>
             <published>2021-02-13T12:33:31&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
@@ -1027,14 +1027,14 @@
             <title type="text">PGP Key Generate</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/pgp-key-generate/" />
             <id>https://yeahpeace.com/pgp-key-generate/</id>
-            <updated>2021-03-08T12:21:16&#43;08:00</updated>
+            <updated>2021-03-11T12:56:07&#43;08:00</updated>
             <published>2021-02-13T04:25:36&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
                     <uri>https://yeahpeace.com/</uri>
                     <email>me@yeahpeace.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;I have generated my own PGP key. You can get my public key from &lt;em&gt;&lt;a href=&#34;https://yeahpeace.com/contact/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;Contact&lt;/a&gt;&lt;/em&gt; page.&lt;/p&gt;</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;I have generated my own PGP key. You can get my public key from &lt;a href=&#34;https://yeahpeace.com/contact/&#34;&gt;&lt;em&gt;Contact&lt;/em&gt;&lt;/a&gt; page.&lt;/p&gt;</summary>
             
             
             
@@ -1115,7 +1115,7 @@
             <title type="text">新年快乐!</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/happy-new-year/" />
             <id>https://yeahpeace.com/happy-new-year/</id>
-            <updated>2021-03-11T12:39:16&#43;08:00</updated>
+            <updated>2021-03-11T12:51:46&#43;08:00</updated>
             <published>2021-02-11T16:00:32&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
@@ -1289,7 +1289,7 @@
             <title type="text">妙探寻凶 (Clue)</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/clue/" />
             <id>https://yeahpeace.com/clue/</id>
-            <updated>2021-03-11T12:35:16&#43;08:00</updated>
+            <updated>2021-03-11T12:55:08&#43;08:00</updated>
             <published>2021-02-07T01:21:33&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
@@ -1506,7 +1506,7 @@
             <title type="text">蛤?</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/that-man/" />
             <id>https://yeahpeace.com/that-man/</id>
-            <updated>2021-03-11T12:31:12&#43;08:00</updated>
+            <updated>2021-03-11T12:54:47&#43;08:00</updated>
             <published>2021-02-03T02:56:30&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>

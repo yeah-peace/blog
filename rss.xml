@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 11 Mar 2021 12:39:52 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 13:01:00 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://yeahpeace.com/rss.xml" />
         
@@ -602,7 +602,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>&lt;p&gt;&lt;code&gt;rar&lt;/code&gt; is a command tool for archiving and extracting rar files. Its official website is &lt;a href=&#34;https://www.win-rar.com/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+                <description>&lt;p&gt;&lt;code&gt;rar&lt;/code&gt; is a command tool for archiving and extracting rar files. Its official website is &lt;a href=&#34;https://www.win-rar.com/&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
                 
                 
                 
@@ -996,7 +996,7 @@
                     <author>me@yeahpeace.com (yeahpeace)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>&lt;p&gt;I have generated my own PGP key. You can get my public key from &lt;em&gt;&lt;a href=&#34;https://yeahpeace.com/contact/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;Contact&lt;/a&gt;&lt;/em&gt; page.&lt;/p&gt;</description>
+                <description>&lt;p&gt;I have generated my own PGP key. You can get my public key from &lt;a href=&#34;https://yeahpeace.com/contact/&#34;&gt;&lt;em&gt;Contact&lt;/em&gt;&lt;/a&gt; page.&lt;/p&gt;</description>
                 
                 
                 
