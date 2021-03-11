@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Yeah ~ peace !</title>
     <subtitle type="html">A personal blog.</subtitle>
-    <updated>2021-03-11T13:45:40&#43;08:00</updated>
+    <updated>2021-03-11T15:52:22&#43;08:00</updated>
     <id>https://yeahpeace.com/</id>
     <link rel="alternate" type="text/html" href="https://yeahpeace.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://yeahpeace.com/atom.xml" />
@@ -1115,7 +1115,7 @@
             <title type="text">新年快乐!</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/happy-new-year/" />
             <id>https://yeahpeace.com/happy-new-year/</id>
-            <updated>2021-03-11T13:45:25&#43;08:00</updated>
+            <updated>2021-03-11T15:51:51&#43;08:00</updated>
             <published>2021-02-11T16:00:32&#43;00:00</published>
             <author>
                     <name>yeahpeace</name>
