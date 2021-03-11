@@ -23,10 +23,55 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 11 Mar 2021 18:36:03 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 22:45:21 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://yeahpeace.com/rss.xml" />
         
+        
+            <item>
+                <title>Crack RC4-MD5</title>
+                <link>https://yeahpeace.com/crack-rc4-md5/</link>
+                <guid isPermaLink="true">https://yeahpeace.com/crack-rc4-md5/</guid>
+                <pubDate>Thu, 11 Mar 2021 18:31:27 &#43;0800</pubDate>
+                
+                    <author>me@yeahpeace.com (yeahpeace)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>&lt;p&gt;Related repo is &lt;a href=&#34;https://github.com/Qv2ray/rc4md5cry&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/categories/web-development/">web development</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/rc4-md5/">rc4-md5</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yeahpeace.com/tags/shadowsocks/">shadowsocks</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>提问的智慧</title>
@@ -387,51 +432,6 @@
                                 
                                 
                                     <category domain="https://yeahpeace.com/tags/lsattr/">lsattr</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>Firedog</title>
-                <link>https://yeahpeace.com/firedog/</link>
-                <guid isPermaLink="true">https://yeahpeace.com/firedog/</guid>
-                <pubDate>Sat, 27 Feb 2021 15:46:05 &#43;0000</pubDate>
-                
-                    <author>me@yeahpeace.com (yeahpeace)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>&lt;p&gt;First, I have to say, fox does not really leave. But if you are active on the Internet these days, you may have seen memes about Firefox logo.&lt;/p&gt;</description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://yeahpeace.com/categories/personal-thoughts/">personal thoughts</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://yeahpeace.com/tags/firefox/">firefox</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://yeahpeace.com/tags/mozilla/">mozilla</category>
                                 
                             
                         

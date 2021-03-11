@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Yeah ~ peace !</title>
     <subtitle type="html">A personal blog.</subtitle>
-    <updated>2021-03-11T18:36:03&#43;08:00</updated>
+    <updated>2021-03-11T22:45:21&#43;08:00</updated>
     <id>https://yeahpeace.com/</id>
     <link rel="alternate" type="text/html" href="https://yeahpeace.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://yeahpeace.com/atom.xml" />
@@ -16,6 +16,53 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.81.0">Hugo</generator>
+        <entry>
+            <title type="text">Crack RC4-MD5</title>
+            <link rel="alternate" type="text/html" href="https://yeahpeace.com/crack-rc4-md5/" />
+            <id>https://yeahpeace.com/crack-rc4-md5/</id>
+            <updated>2021-03-11T22:44:53&#43;08:00</updated>
+            <published>2021-03-11T18:31:27&#43;08:00</published>
+            <author>
+                    <name>yeahpeace</name>
+                    <uri>https://yeahpeace.com/</uri>
+                    <email>me@yeahpeace.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Related repo is &lt;a href=&#34;https://github.com/Qv2ray/rc4md5cry&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yeahpeace.com/categories/web-development/" term="web development" label="web development" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yeahpeace.com/tags/rc4-md5/" term="rc4-md5" label="rc4-md5" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://yeahpeace.com/tags/shadowsocks/" term="shadowsocks" label="shadowsocks" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">提问的智慧</title>
             <link rel="alternate" type="text/html" href="https://yeahpeace.com/how-to-ask-questions-the-smart-way/" />
@@ -393,53 +440,6 @@
                             
                             
                                 <category scheme="https://yeahpeace.com/tags/lsattr/" term="lsattr" label="lsattr" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Firedog</title>
-            <link rel="alternate" type="text/html" href="https://yeahpeace.com/firedog/" />
-            <id>https://yeahpeace.com/firedog/</id>
-            <updated>2021-03-11T16:22:59&#43;08:00</updated>
-            <published>2021-02-27T15:46:05&#43;00:00</published>
-            <author>
-                    <name>yeahpeace</name>
-                    <uri>https://yeahpeace.com/</uri>
-                    <email>me@yeahpeace.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;First, I have to say, fox does not really leave. But if you are active on the Internet these days, you may have seen memes about Firefox logo.&lt;/p&gt;</summary>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://yeahpeace.com/categories/personal-thoughts/" term="personal thoughts" label="personal thoughts" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://yeahpeace.com/tags/firefox/" term="firefox" label="firefox" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://yeahpeace.com/tags/mozilla/" term="mozilla" label="mozilla" />
                             
                         
                     
